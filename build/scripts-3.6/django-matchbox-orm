@@ -1,0 +1,3 @@
+#!python
+
+echo "hey there, this is django-matchbox-orm"

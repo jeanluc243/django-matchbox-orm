@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: django-matchbox-orm
+Version: 0.1
+Summary: django-matchbox-orm is orm package for Google Cloud firestore with Django
+Home-page: UNKNOWN
+Author: Jean-Luc Kabulu
+Author-email: jeanluc.kabulu@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python ::3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
