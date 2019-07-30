@@ -12,7 +12,7 @@ setuptools.setup(
     description = "django-matchbox-orm is orm package for Google Cloud firestore with Django",
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    url = "",
+    url = "https://github.com/jeanluc243/django-matchbox-orm",
     packages = setuptools.find_packages(),
     classifiers = [
         "Programming Language :: Python :: 3",
