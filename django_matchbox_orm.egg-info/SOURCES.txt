@@ -4,5 +4,6 @@ setup.py
 django_matchbox_orm.egg-info/PKG-INFO
 django_matchbox_orm.egg-info/SOURCES.txt
 django_matchbox_orm.egg-info/dependency_links.txt
+django_matchbox_orm.egg-info/not-zip-safe
 django_matchbox_orm.egg-info/requires.txt
 django_matchbox_orm.egg-info/top_level.txt
