@@ -13,6 +13,8 @@ setuptools.setup(
     long_description = long_description,
     long_description_content_type = "text/markdown",
     url = "https://github.com/jeanluc243/django-matchbox-orm",
+    zip_safe=False,
+    keywords='firebase orm firestore django',
     packages = setuptools.find_packages(),
     classifiers = [
         "Programming Language :: Python :: 3",
