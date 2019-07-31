@@ -2,6 +2,10 @@
 
 <img src="https://i.imgur.com/7nhv1sW.png" >
 
+### Install Django-Matchbox-ORM
+
+**pip install django-matchbox-orm**
+
 <br/>
 
 | Details    | django-matchbox-orm is orm package for Google Cloud firestore with Django.  |
